@@ -7,4 +7,4 @@ This repository contains a flat file (csv) of the available context entities sup
 * File format: CSV
 * File size: ~7 MB
 
-Feel free to download the file(s) in this repository to discover the available context annotation entities.
+Feel free to download the file(s) in this repository to discover the available context annotation entities. We aim to provide an updated file ~quarterly to encompass new entities that have been added – so please check back in a few months if you desire updates.
