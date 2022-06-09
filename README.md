@@ -1,4 +1,4 @@
-# Twitter Context Annotations
+# Twitter Context Annotations: List of Entities
 
 This repository contains a flat file (csv) of the available context entities supported by the [Tweet Annotations](https://developer.twitter.com/en/docs/twitter-api/annotations/overview) feature of the Twitter API. The file contains a list of "evergreen" entities (non event-based entities that are always active and annotating Tweets) encompassed by the 80+ supported domains that have annotated Tweets in the past few months. See additional details on the file below:
 
