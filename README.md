@@ -1,8 +1,10 @@
 # Twitter Context Annotations
 
-This repository contains flat files of the available context entities supported by the [Tweet Annotations](https://developer.twitter.com/en/docs/twitter-api/annotations/overview) feature of the API. The files contain a list of entities encompassed by the 80+ supported domains that have annotated Tweets in the past few months – we consider these to be "active" entity annotations. Two files are provided, each representing a different category of entities:
+This repository contains a flat file (csv) of the available context entities supported by the [Tweet Annotations](https://developer.twitter.com/en/docs/twitter-api/annotations/overview) feature of the Twitter API. The file contains a list of "evergreen" entities (non event-based entities that are always active and annotating Tweets) encompassed by the 80+ supported domains that have annotated Tweets in the past few months. See additional details on the file below:
 
-1. Evergreen entities - non event-based entities that are always "on" and annotating Tweets.
-2. Event-based entities - entities that only annotate for a distinct period of time. Examples include TV episodes, sporting events, etc.
+* Column headers: domains, entity_id, entity_name
+  * Note: the "domains" column can contain one or more values. In the case of multiple domains, the value will be wrapped in double quotes (e.g., "10,56,131")
+* File format: CSV
+* File size: ~7 MB
 
-Feel free to download the files in this repository to discover the extent of available context annotation entities.
+Feel free to download the file(s) in this repository to discover the available context annotation entities.
