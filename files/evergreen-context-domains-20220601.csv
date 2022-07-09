@@ -1,0 +1,85 @@
+domain_id, domain_name
+3, TV Shows
+4, TV Episodes
+6, Sports Events
+10, Person
+11, Sport
+12, Sports Team
+13, Place
+22, TV Genres
+23, TV Channels
+26, Sports League
+27, American Football Game
+28, NFL Football Game
+29, Events
+31, Community
+35, Politicians
+38, Political Race
+39, Basketball Game
+40, Sports Series
+43, Soccer Match
+44, Baseball Game
+45, Brand Vertical
+46, Brand Category
+47, Brand
+48, Product
+54, Musician
+55, Music Genre
+56, Actor
+58, Entertainment Personality
+60, Athlete
+65, Interests and Hobbies Vertical
+66, Interests and Hobbies Category
+67, Interests and Hobbies
+68, Hockey Game
+71, Video Game
+78, Video Game Publisher
+79, Video Game Hardware
+83, Cricket Match
+84, Book
+85, Book Genre
+86, Movie
+87, Movie Genre
+88, Political Body
+89, Music Album
+90, Radio Station
+91, Podcast
+92, Sports Personality
+93, Coach
+94, Journalist
+95, TV Channel [Entity Service]
+109, Reoccurring Trends
+110, Viral Accounts
+114, Concert
+115, Video Game Conference
+116, Video Game Tournament
+117, Movie Festival
+118, Award Show
+119, Holiday
+120, Digital Creator
+122, Fictional Character
+130, Multimedia Franchise
+131, Unified Twitter Taxonomy
+136, Video Game Personality
+137, eSports Team
+138, eSports Player
+139, Fan Community
+149, Esports League
+152, Food
+155, Weather
+156, Cities
+157, Colleges & Universities
+158, Points of Interest
+159, States
+160, Countries
+162, Exercise & fitness
+163, Travel
+164, Fields of study
+165, Technology
+166, Stocks
+167, Animals
+171, Local News
+172, Global TV Show
+173, Google Product Taxonomy
+174, Digital Assets & Crypto
+175, Emergency Events
